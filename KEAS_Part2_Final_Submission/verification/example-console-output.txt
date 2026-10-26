@@ -1,0 +1,55 @@
+--- Registration ---
+Enter first name: Enter last name: Enter username: Username successfully captured.
+Enter password: Password successfully captured.
+Enter cell phone number (for example +27718693002): Cell phone number successfully added.
+User registered successfully.
+
+--- Login ---
+Enter username: Enter password: Welcome Masello Phetoe, it is great to see you again.
+Welcome to QuickChat.
+How many messages would you like to enter? 
+1. Send Messages
+2. Show recently sent messages (Coming Soon.)
+3. Quit
+Choose option: Message 1 of 3
+Enter recipient cell number: Enter message (maximum 250 characters): Message ready to send.
+Message ID generated: 1077559835
+Message Hash generated: 10:0:HITONIGHT
+1. Send Message
+2. Disregard Message
+3. Store Message to send later
+Choose message action: Cell phone number successfully captured.
+Message successfully sent.
+Message ID: 1077559835
+Message Hash: 10:0:HITONIGHT
+Recipient: +27718693002
+Message: Hi Mike, can you join us for dinner tonight?
+Message 2 of 3
+Enter recipient cell number: Enter message (maximum 250 characters): Message ready to send.
+Message ID generated: 0653833921
+Message Hash generated: 06:1:HIPAYMENT
+1. Send Message
+2. Disregard Message
+3. Store Message to send later
+Choose message action: Press 0 to delete the message.
+Enter 0 to discard or 1 to cancel: Message discarded.
+Message 3 of 3
+Enter recipient cell number: Enter message (maximum 250 characters): Message ready to send.
+Message ID generated: 7836779084
+Message Hash generated: 78:2:STOREDMESSAGE
+1. Send Message
+2. Disregard Message
+3. Store Message to send later
+Choose message action: Cell phone number successfully captured.
+Message successfully stored.
+Total messages successfully sent: 1
+
+1. Send Messages
+2. Show recently sent messages (Coming Soon.)
+3. Quit
+Choose option: Message ID: 1077559835
+Message Hash: 10:0:HITONIGHT
+Recipient: +27718693002
+Message: Hi Mike, can you join us for dinner tonight?
+Total messages successfully sent: 1
+Goodbye from QuickChat.
